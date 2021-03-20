@@ -1,0 +1,11 @@
+Blacklisted NSFW Server (for Anti-NSFW Discord Server features)
+
+Maintained: disboard.org | discord.me | top.gg/servers
+Updated: March 20th, 2021.
+
+Request removal: support@blob-project.com
+
+WARNING: Request removal will be rejected if the server majority was NSFW.
+
+NSFW category:
+---------------------------------------------------------------------------
