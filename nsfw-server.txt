@@ -2,10 +2,22 @@ Blacklisted NSFW Server (for Anti-NSFW Discord Server features)
 
 Maintained: disboard.org | discord.me | top.gg/servers
 Updated: March 20th, 2021.
+Collected by: Ray
+Type: Fiction (example: Furry, Hentai) | Non-fiction (example: PornHub)
 
 Request removal: support@blob-project.com
 
-WARNING: Request removal will be rejected if the server majority was NSFW.
+WARNING: Request removal will be rejected if the server majority was focused on NSFW.
 
-NSFW category:
----------------------------------------------------------------------------
+If it's not blacklisted but still get caught, the answer is ALGORITHMS.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+562078077568679947
+669676558167965713
+284447205358829570
+402412995084288000
+764078865864720396
+759118772316667961
+699199409614749736
+770902702791196672
+608381192403812361
+664591133787029509
